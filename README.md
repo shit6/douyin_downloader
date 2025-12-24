@@ -25,7 +25,8 @@ qq群（请老用户加新的QQ群，原QQ群已被封禁）：
 314226405
 
 TG通知群：
-t.me/+_3rhEtjaQElhMTgx
+
+https://t.me/+_3rhEtjaQElhMTgx
 
 
 # v5.1.2
