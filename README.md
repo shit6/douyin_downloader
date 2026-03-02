@@ -3,5 +3,5 @@
 # vip权限已经全部补偿完毕：
 
 请移步：
-	https://github.com/usyd1997/douyin_lottery/
+	https://github.com/dylot2000/dy_lot_tool
 
